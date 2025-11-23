@@ -57,12 +57,14 @@ Here are the types of projects I enjoy working on:
 
 ---
 
-## 🔗 Connect with Me
+## ✨ Stay in Touch
 
 - 📧 Email: **haidyhosam93@gmail.com**  
-
----
-
+- 🔵 LinkedIn : **www.linkedin.com/in/haidyhosam93**
+- 👍 FaceBook:
+  <a href="https://www.facebook.com/Haidy.Hosam93/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="26" style="display:inline;" />
+  </a>
 ## ✨ A Little More About Me
 
 I’m someone who learns by doing — I love simple explanations, clean code,  
