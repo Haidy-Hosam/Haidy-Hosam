@@ -35,12 +35,23 @@
 
 ## 📌 Featured Projects
 
-Here are the types of projects I enjoy working on:
+<table width="100%">
+  <tr>
+    <td width="70%" style="vertical-align:top;">
+      <p>Here are the types of projects I enjoy working on:</p>
+      <ul>
+        <li>🟦 <strong>Interactive Web Interfaces</strong> – clean layouts + smooth interactions</li>
+        <li>🟨 <strong>JavaScript Logic Projects</strong> – practicing algorithms & solving real problems</li>
+        <li>🟩 <strong>Problem-Solving Scripts</strong> – implementations in C/C++ & Python</li>
+        <li>🟧 <strong>Mini Learning Apps</strong> – applying what I learn in IT courses</li>
+      </ul>
+    </td>
+    <td width="30%" style="text-align:center; vertical-align:middle;">
+      <img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/piza-ninjas-pizzaninjas.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- 🟦 **Interactive Web Interfaces** – clean layouts + smooth interactions  
-- 🟨 **JavaScript Logic Projects** – practicing algorithms & solving real problems  
-- 🟩 **Problem-Solving Scripts** – implementations in C/C++ & Python  
-- 🟧 **Mini Learning Apps** – applying what I learn in IT courses  
 
 
 ---
