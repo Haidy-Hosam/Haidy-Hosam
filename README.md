@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Haidy-Hosam/Haidy-Hosam/main/Personal_Pic2.jpg"
        alt="profile"
        width="220"
        height="220"
        style="border-radius: 50%; object-fit: cover;"/>
-</p>
+</p> -->
 
 
 
