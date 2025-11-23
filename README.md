@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong> 👩‍💻</h1>
+<h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong> 👩🏻‍💻</h1>
 <h3 align="center">IT Student | Full-Stack Learner | Problem Solver</h3>
 
 ---
