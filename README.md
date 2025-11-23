@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="/mnt/data/7dd0c326-e4ab-4163-aca1-715bc942bba5.png" width="100%" alt="banner"/>
+  <img src="/mnt/data/baf18959-f0e8-4993-b4f2-742424e636f5.png"
+       alt="profile"
+       width="180"
+       height="180"
+       style="border-radius: 50%; object-fit: cover;"/>
 </p>
+
 
 <h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong> 👩‍💻</h1>
 <h3 align="center">IT Student | Full-Stack Learner | Problem Solver</h3>
