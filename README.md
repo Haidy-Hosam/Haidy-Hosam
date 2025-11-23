@@ -46,14 +46,37 @@ Here are the types of projects I enjoy working on:
 ---
 
 ## 📊 GitHub Insights
+<div align="center">
 
-<p align="center">
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Haidy-Hosam&show_icons=true&theme=holi"
+        width="350"
+        alt="stats card"/>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com?user=Haidy-Hosam&theme=holi-theme&mode=weekly"
+          width="350"
+          alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidy-Hosam&layout=compact&theme=holi"
+        width="350"
+        alt="languages card"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Haidy-Hosam&show_icons=true&theme=radical" height="160" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidy-Hosam&layout=compact&theme=radical" height="160"/>
 
-</p>
+
 
 ---
 
