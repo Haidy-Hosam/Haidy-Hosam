@@ -42,7 +42,6 @@ Here are the types of projects I enjoy working on:
 - 🟩 **Problem-Solving Scripts** – implementations in C/C++ & Python  
 - 🟧 **Mini Learning Apps** – applying what I learn in IT courses  
 
-> If you want, I can create a "Projects Section" for your actual repos later.
 
 ---
 
