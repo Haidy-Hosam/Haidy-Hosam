@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="/mnt/data/baf18959-f0e8-4993-b4f2-742424e636f5.png"
+  <img src="https://raw.githubusercontent.com/Haidy-Hosam/Haidy-Hosam/main/Personal_Pic2.jpg"
        alt="profile"
-       width="180"
-       height="180"
+       width="220"
+       height="220"
        style="border-radius: 50%; object-fit: cover;"/>
 </p>
+
 
 
 <h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong> 👩‍💻</h1>
