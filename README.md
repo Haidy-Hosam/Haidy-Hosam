@@ -57,14 +57,31 @@ Here are the types of projects I enjoy working on:
 
 ---
 
-## ✨ Stay in Touch
+## 🌙 Stay in Touch
 
-- 📧 Email: **haidyhosam93@gmail.com**  
-- 🔵 LinkedIn : **www.linkedin.com/in/haidyhosam93**
-- 👍 FaceBook:
-  <a href="https://www.facebook.com/Haidy.Hosam93/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="26" style="display:inline;" />
+<p align="center" style="margin-top: 50px;">
+
+  <a href="https://www.linkedin.com/in/haidyhosam93" style="margin: 0 50px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/Haidy.Hosam93" style="margin: 0 50px;">
+    <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:haidyhosam93@gmail.com" style="margin: 0 50px;">
+    <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/haidy_hosam93?igsh=dnBlY2N6NDdxanYy" style="margin: 0 50px;">
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/HaidyHosam93" style="margin: 0 50px;">
+    <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+</p>
+
+
+
+  
 ## ✨ A Little More About Me
 
 I’m someone who learns by doing — I love simple explanations, clean code,  
