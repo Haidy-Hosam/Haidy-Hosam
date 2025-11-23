@@ -93,29 +93,33 @@
 
 ## 🌙 Stay in Touch
 
-<p align="center" style="margin-top: 50px;">
+<table width="100%">
+  <tr>
+    <!-- Social Links (Fixed Width Column) -->
+    <td style="vertical-align: top; width: 500px;">
+      <a href="https://www.linkedin.com/in/haidyhosam93">
+        <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://www.facebook.com/Haidy.Hosam93">
+        <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" />
+      </a>
+      <a href="mailto:haidyhosam93@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://www.instagram.com/haidy_hosam93?igsh=dnBlY2N6NDdxanYy">
+        <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <a href="https://codeforces.com/profile/HaidyHosam93">
+        <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" />
+      </a>
+    </td>
+    <!-- GIF (Auto-expands Column) -->
+    <td style="vertical-align: middle; text-align: center; width: 100%;">
+      <img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/follow-subscribe.gif" height="170" />
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.linkedin.com/in/haidyhosam93" style="margin: 0 50px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/Haidy.Hosam93" style="margin: 0 50px;">
-    <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:haidyhosam93@gmail.com" style="margin: 0 50px;">
-    <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/haidy_hosam93?igsh=dnBlY2N6NDdxanYy" style="margin: 0 50px;">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/HaidyHosam93" style="margin: 0 50px;">
-    <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-</p>
-
-
-
-  
 ## ✨ A Little More About Me
 
 I’m someone who learns by doing — I love simple explanations, clean code,  
