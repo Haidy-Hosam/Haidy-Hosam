@@ -92,11 +92,9 @@
 ---
 
 ## 🌙 Stay in Touch
-
-<table width="100%">
+<table width="100%" style="width: 100%; display: table;">
   <tr>
-    <!-- Social Links (Fixed Width Column) -->
-    <td style="vertical-align: top; width: 500px;">
+    <td width="70%" style="vertical-align: top;">
       <a href="https://www.linkedin.com/in/haidyhosam93">
         <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
@@ -113,9 +111,8 @@
         <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" />
       </a>
     </td>
-    <!-- GIF (Auto-expands Column) -->
-    <td style="vertical-align: middle; text-align: center; width: 100%;">
-      <img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/follow-subscribe.gif" height="170" />
+    <td width="30%" style="vertical-align: center; text-align: center;">
+      <img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/follow-subscribe.gif" width="100%" />
     </td>
   </tr>
 </table>
