@@ -27,8 +27,8 @@
 ## 🛠️ Skills & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,python,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,cpp,c,cs,python,git,github,vscode,mysql" />
+
 
 ---
 
