@@ -8,7 +8,8 @@
 
 
 
-<h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong> 👩🏻‍💻</h1>
+<h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong> <img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/hamster-waving-hello-hamster.gif" height="50">
+</h1>
 <h3 align="center">IT Student | Full-Stack Learner | Problem Solver</h3>
 
 ---
@@ -114,4 +115,4 @@ And yes… I always make everything look prettier than needed 😌🎀
 
 ---
 
-<p align="center">Made with ❤️ by <strong>Haidy Hossam</strong></p>
+<p align="center">Made with ❤️ by <strong>Haidy Hossam</strong> <img src ="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/bye-sticker-goodbye-sticker.gif" height="30"/></p>
