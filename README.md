@@ -98,22 +98,21 @@
 <table width="100%">
   <tr>
     <td width="70%" style="vertical-align:top;">
-      <p>For networking, discussions, or future opportunities, you can always get in touch with me through any of the links below.</p>
-      <ul>
-        <li><a href="https://www.linkedin.com/in/haidyhosam93">
-          <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a></li>
-        <li><a href="https://www.facebook.com/Haidy.Hosam93">
-          <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-        </a></li>
-        <li><a href="mailto:haidyhosam93@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <p>For networking, discussions, or future opportunities, you can always get in touch with me through any of the links below🔗</p>
+      <ul><li><a href="https://codeforces.com/profile/HaidyHosam93">
+          <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
         </a></li>
         <li><a href="https://www.instagram.com/haidy_hosam93">
           <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
         </a></li>
-        <li><a href="https://codeforces.com/profile/HaidyHosam93">
-          <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+        <li><a href="https://www.facebook.com/Haidy.Hosam93">
+          <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+        </a></li>
+        <li><a href="https://www.linkedin.com/in/haidyhosam93">
+          <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a></li>
+        <li><a href="mailto:haidyhosam93@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a></li>
       </ul>
     </td>
