@@ -7,10 +7,16 @@
 </p> -->
 
 
-
-<h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong> <img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/hamster-waving-hello-hamster.gif" height="50">
+<div align="center">
+<h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong><img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/hamster-waving-hello-hamster.gif" height="50">
 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=649FDC&center=true&vCenter=true&width=435&lines=Front-End+Software+Engineer;Full-Stack+Learner+;Problem+Solver" alt="Typing SVG" /></a>
+  </div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=649FDC&center=true&vCenter=true&width=435&lines=Front-End+Software+Engineer;Full-Stack+Learner+;Problem+Solver"              alt="Typing SVG" />
+  </a>
+</div>
+
 
 ## 🚀 About Me
 
