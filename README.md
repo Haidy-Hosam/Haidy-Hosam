@@ -102,17 +102,34 @@
       <p>For networking, discussions, or future opportunities, you can always get in touch with me through any of the links below🔗</p>
       <!-- تجربة marquee: ممكن تشتغل -->
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="4" style="width:70%;">
+<marquee behavior="scroll" direction="left" scrollamount="4" style="width:70%;">
+
+  <a href="https://www.linkedin.com/in/haidyhosam93" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" />
-    &nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/Haidy.Hosam93" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" />
-    &nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:haidyhosam93@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" />
-    &nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/haidy_hosam93" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
-    &nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/HaidyHosam93" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </marquee>
+  </a>
+
+</marquee>
+
 </div>
     </td>
     <td width="20%" style="text-align:center; vertical-align:middle;">
