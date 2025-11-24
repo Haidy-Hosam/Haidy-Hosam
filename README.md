@@ -92,30 +92,39 @@
 ---
 
 ## 🌙 Stay in Touch
-<table width="100%" style="width: 100%; display: table;">
+<!-- README-friendly full-width box with left links and right image -->
+<div align="center">
+
+<table width="100%">
   <tr>
-    <td width="70%" style="vertical-align: top;">
-      <a href="https://www.linkedin.com/in/haidyhosam93">
-        <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://www.facebook.com/Haidy.Hosam93">
-        <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" />
-      </a>
-      <a href="mailto:haidyhosam93@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://www.instagram.com/haidy_hosam93?igsh=dnBlY2N6NDdxanYy">
-        <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      <a href="https://codeforces.com/profile/HaidyHosam93">
-        <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" />
-      </a>
+    <td width="70%" style="vertical-align:top;">
+      <p>For networking, discussions, or future opportunities, you can always get in touch with me through any of the links below.</p>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/haidyhosam93">
+          <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a></li>
+        <li><a href="https://www.facebook.com/Haidy.Hosam93">
+          <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+        </a></li>
+        <li><a href="mailto:haidyhosam93@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a></li>
+        <li><a href="https://www.instagram.com/haidy_hosam93">
+          <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a></li>
+        <li><a href="https://codeforces.com/profile/HaidyHosam93">
+          <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+        </a></li>
+      </ul>
     </td>
-    <td width="30%" style="vertical-align: center; text-align: center;">
-      <img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/follow-subscribe.gif" width="100%" />
+    <td width="30%" style="text-align:center; vertical-align:middle;">
+      <img src="https://raw.githubusercontent.com/Haidy-Hosam/Haidy-Hosam/main/follow-subscribe.gif" width="100%" />
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ## ✨ A Little More About Me
 
