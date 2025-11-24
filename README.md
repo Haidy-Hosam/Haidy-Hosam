@@ -10,13 +10,10 @@
 <div align="center">
 <h1 align="center">Hi there, I'm <strong>Haidy Hossam</strong><img src="https://github.com/Haidy-Hosam/Haidy-Hosam/blob/main/hamster-waving-hello-hamster.gif" height="50">
 </h1>
-  </div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=649FDC&center=true&vCenter=true&width=435&lines=Front-End+Software+Engineer;Full-Stack+Learner+;Problem+Solver"              alt="Typing SVG" />
-  </a>
 </div>
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=649FDC&center=true&vCenter=true&width=435&lines=Front-End+Software+Engineer;Full-Stack+Learner+;Problem+Solver" alt="Typing SVG" /></a>
+</div>
 
 ## 🚀 About Me
 
@@ -103,24 +100,22 @@
   <tr>
     <td width="70%" style="vertical-align:top;">
       <p>For networking, discussions, or future opportunities, you can always get in touch with me through any of the links below🔗</p>
-      <ul><li><a href="https://codeforces.com/profile/HaidyHosam93">
-          <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-        </a></li>
-        <li><a href="https://www.instagram.com/haidy_hosam93">
-          <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a></li>
-        <li><a href="https://www.facebook.com/Haidy.Hosam93">
-          <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-        </a></li>
-        <li><a href="https://www.linkedin.com/in/haidyhosam93">
-          <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a></li>
-        <li><a href="mailto:haidyhosam93@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a></li>
-      </ul>
+      <!-- تجربة marquee: ممكن تشتغل -->
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="4" style="width:70%;">
+    <img src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Facebook-005AE0?style=for-the-badge&logo=facebook&logoColor=white" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Email-D9534F?style=for-the-badge&logo=gmail&logoColor=white" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Codeforces-3E4FD6?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </marquee>
+</div>
     </td>
-    <td width="30%" style="text-align:center; vertical-align:middle;">
+    <td width="20%" style="text-align:center; vertical-align:middle;">
       <img src="https://raw.githubusercontent.com/Haidy-Hosam/Haidy-Hosam/main/follow-subscribe.gif" width="100%" />
     </td>
   </tr>
